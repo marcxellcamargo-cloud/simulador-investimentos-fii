@@ -90,7 +90,8 @@ garante rentabilidade futura. Consulte sempre relatórios gerenciais dos fundos 
 .
 ├── README.md
 ├── Simulador_Investimentos_FII.xlsx
-└── images/           (opcional — capturas de tela da planilha)
+└── images/
+    └── preview.png    (imagem de prévia usada no topo do README)
 ```
 
 ## Referências
